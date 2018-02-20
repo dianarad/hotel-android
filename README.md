@@ -37,7 +37,7 @@ b. (0.5p) (1p)Book a room. The client will be able to reserve a room, if availab
 
 c. (1p) Once the client booked a room, instead of presenting the list of the available rooms the app will display the details of his booked room, even when offline. Once online the user will be able to checkout. By doing a POST /checkout with a valid room id the room will be released. At this point the app will display the available rooms again.
 
-d. (0.5p)Viewthelocalhistorywithallhisrooms.Foreachroomthatwasoncebooked the app will display the room name and the time when the room was booked.
+d. (0.5p)View the local history with all his rooms. For each room that was once booked the app will display the room name and the time when the room was booked.
 
 e. (0.5p) Remove the local history.
 
